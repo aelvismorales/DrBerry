@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">DrBerry</string>
+    <string name="image_view">IMAGE VIEW</string>
+    <string name="detect">DETECT</string>
+    <string name="run_model">LOADING</string>
+    <string name="restart">RESTART</string>
+    <string name="select">SELECT</string>
+    <string name="live">LIVE</string>
+    <string name="crop">CROP</string>
+    <string name="again">NEW IMAGE</string>
+    <string name="download">SAVE IMAGE</string>
+    <string name="update">UPDATE</string>
+    <string name="by">by</string>
+    <string name="dev_team">Elvis Morales &amp; Hamill Cavero</string>
+    <string name="hint_title">Title: Field One Alternaria</string>
+    <string name="hint_description">Description:</string>
+    <string name="FAQ"> FAQ </string>
+    <string name="content_faq"> Here will come with the FAQ content</string>
+
+</resources>
